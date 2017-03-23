@@ -17,3 +17,4 @@ sadfasdfsdf
  
  ```
  
+ ![k-map](./imgs/kmap.png)
